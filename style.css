@@ -60,6 +60,11 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
   cursor: pointer;
+  background-color: #e26f66;
+}
+
+button[type="submit"]:active {
+  background-color: #cb615a;
 }
 
 .form-footer-text {
