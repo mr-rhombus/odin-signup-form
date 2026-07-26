@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #c9c8c7;
+  background-image: url("assets/img/page-background.jpg");
 }
 
 form {
