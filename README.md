@@ -2,6 +2,8 @@
 
 The Odin Project (⚡️) Intermediate HTML and CSS [Sign-up Form](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) project.
 
+Access the form [here](https://mr-rhombus.github.io/odin-signup-form/)!
+
 ## Citations
 
 Images used on this form come from 
