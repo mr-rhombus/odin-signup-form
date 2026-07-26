@@ -112,7 +112,23 @@ button[type="submit"]:active {
 }
 
 .alternate-signin {
-  height: 60px;
+  height: 50px;
   width: 70px;
-  background-color: #949392;
+  background-color: #f2f0ef;
+  border: 1px solid #949392;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.alternate-signin:hover {
+  background-color: #dad4d2;
+}
+
+.alternate-signin:active {
+  background-color: #c2b9b4;
+}
+
+.alternate-signin img {
+  height: 40%;
 }
